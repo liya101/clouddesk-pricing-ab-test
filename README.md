@@ -1,8 +1,8 @@
-# CloudDesk — Pricing Page A/B Test
+# CloudDesk: Pricing Page A/B Test
 
-A three-part case study designing, analysing, and recommending on a (synthetic) B2B SaaS pricing page redesign experiment.
+A three-part case study, designing, analysing, and recommending on a (synthetic) B2B SaaS pricing page redesign experiment.
 
-> **TL;DR** — A 4-week test of an annual-default pricing page lifted annual signup share by **+8.3 percentage points** (19.5% → 27.8%) but breached both pre-registered guardrails: signup conversion dropped −0.49pp and revenue per visitor dropped −4.5%. The test "failed" overall, but **subgroup analysis revealed the failure is sharply concentrated in companies with <50 employees**. For 50+ companies, the redesign performs cleanly. **Recommendation: segmented rollout — ship for 50+, iterate the design for SMB.**
+> **TL;DR**: A 4-week test of an annual-default pricing page lifted annual signup share by **+8.3 percentage points** (19.5% → 27.8%) but breached both pre-registered guardrails: signup conversion dropped −0.49pp and revenue per visitor dropped −4.5%. The test "failed" overall, but **subgroup analysis revealed the failure is sharply concentrated in companies with <50 employees**. For 50+ companies, the redesign performs cleanly. **Recommendation: segmented rollout — ship for 50+, iterate the design for SMB.**
 
 📄 **Full case study writeup:** https://www.notion.so/CloudDesk-Pricing-Page-A-B-Test-350658b8997e81368b70c843014b343d?source=copy_link
 
