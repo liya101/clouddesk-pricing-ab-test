@@ -54,4 +54,30 @@ A/B test design is the most-asked, least-prepared topic in product analyst inter
 
 ---
 
-## Repo structure
+
+## How to reproduce
+
+```bash
+git clone https://github.com/liyageorge0912-data/clouddesk-pricing-ab-test.git
+cd clouddesk-pricing-ab-test
+pip install pandas numpy matplotlib statsmodels scipy jupyter
+jupyter notebook notebooks/clouddesk_pricing_test.ipynb
+```
+
+---
+
+## Tools used
+
+Python — pandas, numpy, statsmodels, scipy, matplotlib · Jupyter
+
+**Statistical methods:** two-proportion z-test for binary metrics · Welch's t-test for revenue · Wilson confidence intervals for proportions · Bootstrap CIs for revenue · Chi-squared goodness-of-fit for sample ratio mismatch
+
+---
+
+## A note on the data
+
+This is a **synthetic dataset** I generated to mirror realistic SaaS pricing-test patterns. CloudDesk is not a real company; the data is not from a real test. The analytical patterns and statistical pitfalls are designed to reflect what a real product analyst would encounter day-to-day.
+
+---
+
+
